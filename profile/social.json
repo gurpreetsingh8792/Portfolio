@@ -1,0 +1,21 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "http://linkedin.com/in/gurpreet-singh-7150b21ab"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/gurpreetsingh8792"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:gurpreetsingh8792@gmail.com"
+        },
+        {
+            "network" : "whatsapp",
+            "href": "https://wa.me/+916005114557"
+        }
+
+    ]
+}

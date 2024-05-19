@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Aug 2018 - May 2022",
+            "cardTitle": "B.Tech, Computer Science & Engg.",
+            "cardSubtitle":"Shri Govindram Seksaria Institute of Technology and Science, Indore, Madhya Pradesh, India.",
+            "cardDetailedText": "CGPA - 7.22",
+            "icon" : {
+                "src": "images/education/gsits.png"
+            }
+        },
+        {
+            "title": "Apr 2018",
+            "cardTitle": "High School (CBSE)",
+            "cardSubtitle":"Army Public school Kaluchak, Jammu",
+            "cardDetailedText": "Marks - 82.5%"
+        }
+    ]
+}

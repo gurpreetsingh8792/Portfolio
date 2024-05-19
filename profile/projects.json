@@ -1,0 +1,128 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/skin.png",
+            "title": "Skin Disease Classification",
+            "bodyText": "- A Web App that allows users to check if they are suffering from **skin disease** (skin cancer) or not.\n - User has to just click the photo of the skin and upload it on our platform, our model will **predict** which skin disease he/she is sufferening from.\n - Our Model will give user **three predections** with score out of 100%.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gurpreetsingh8792/skin-disease-classification"
+                }
+            ],
+            "tags" : [
+                "Flask",
+                "Python",
+                "Jupyter Notebook",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Pytorch",
+                "Pandas",
+                "MobileNet CNN"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/lawfax.png",
+            "title": "Lawfax AI -  Crafting the future of law with AI",
+            "bodyText": "- A legal services platform designed to assist advocates in case management, document automation, and proxy counsel features.\n - Added User authentication and password reset using **Jwt Token**.\n - **Chat App** Feature for advocates so that they can chat with other advocates.\n - Each Advocate has its own **wallet**.\n - Deployed on **AWS**. ",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://lawfaxai.com/"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "Nodejs",
+                "sqlite3",
+                "AWS",
+                "Material UI",
+                "Express",
+                "Formik"
+            ]
+        },
+        {
+            "image" : "images/projects/nitagedl.png",
+            "title": "NitageDL - Building Tomorrow's Solutions Today",
+            "bodyText": "- **NitageDL**'s company website serves as a vital platform for capturing leads on new projects.\n - **ContactUs** form-When users fill out and submit the form, their information is directly **emailed** to the company, enabling NitageDL to efficiently gather new project inquiries and engage potential **clients** promptly.\n - Deployed on **AWS**.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://nitagedl.com/"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "AWS",
+                "Material UI",
+                "Formik",
+                "React Multi Carousel",
+                "Email Js"
+            ]
+        },
+       
+        {
+            "image" : "images/projects/adamenext.png",
+            "title": "AdametNext",
+            "bodyText": "- A **web app** AdametNext is a brand insight & strategy support provider for **pharma** backed by a highly experienced team.\n - USA based project made **without database**.\n - All Forms are submited and directly mailed to the company email using **emailjs**.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "http://adametnext.com/"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "AWS",
+                "Material UI",
+                "Formik",
+                "React Multi Carousel",
+                "Email Js"
+            ]
+        },
+        {
+            "image" : "images/projects/burger.png",
+            "title": "Online Burger Ordering Website Template",
+            "bodyText": "- It is **Template** made for the sales Teams of NtageDL to get new projects by showing **cloud kitchen Templates**.\n - There is no need of **login**, user can directly add a burger in **cart** and order directly by adding address of his own.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://663379bd8469fcbe385eeab8--willowy-capybara-8f563a.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "AWS",
+                "Material UI",
+                "bootstrap-icons",
+                "React Multi Carousel",
+                "bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Gurpreet Singh Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Netlify"
+            ]
+        }
+    ]
+}
