@@ -1,0 +1,125 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+               
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/sqlite.png",
+                    "title": "Sqlite"
+                },
+                {
+                    "icon": "images/skills/mongodb.png",
+                    "title": "MongoDb"
+                }
+
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/ui.png",
+                    "title": "Material UI"
+                },
+                {
+                    "icon": "images/skills/formik.png",
+                    "title": "Formik"
+                },
+                {
+                    "icon": "images/skills/emailjs.png",
+                    "title": "Email js"
+                },
+                {
+                    "icon": "images/skills/razorpay.png",
+                    "title": "Razorpay"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/jwt.png",
+                    "title": "JWT Token"
+                },
+                {
+                    "icon": "images/skills/socket.webp",
+                    "title": "IO Socket"
+                },
+                {
+                    "icon": "images/skills/pupeeter.jpg",
+                    "title": "Pupeeter"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/postman.png",
+                    "title": "Postman"
+                },
+                {
+                    "icon": "images/skills/hostinger.png",
+                    "title": "Hostinger"
+                },
+                {
+                    "icon": "images/skills/wordpress.png",
+                    "title": "Wordpress"
+                },
+                {
+                    "icon": "images/skills/bluehost.png",
+                    "title": "Bluehost"
+                }
+            ]
+    }
+]}
