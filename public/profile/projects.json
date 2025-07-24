@@ -1,25 +1,24 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/skin.png",
-            "title": "Skin Disease Classification",
-            "bodyText": "- A Web App that allows users to check if they are suffering from **skin disease** (skin cancer) or not.\n - User has to just click the photo of the skin and upload it on our platform, our model will **predict** which skin disease he/she is sufferening from.\n - Our Model will give user **three predections** with score out of 100%.",
+            "image" : "images/projects/platform.png",
+            "title": "Platform Dataspot AI -  Software for drug Analysis",
+            "bodyText": "- A cloud-based platform designed to streamline and digitize clinical trials, enabling efficient management of trials, sites, subjects, and data through integrated modules like EDC, IWRS, and audit logging.",
             "links": [
+                
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/gurpreetsingh8792/skin-disease-classification"
+                    "text": "Live",
+                    "href": "https://platform.thedataspot.ai/"
                 }
             ],
             "tags" : [
-                "Flask",
-                "Python",
-                "Jupyter Notebook",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Pytorch",
-                "Pandas",
-                "MobileNet CNN"
+                "Reactjs",
+                "Nodejs",
+                "Postgres",
+                "AWS",
+                "Typescript",
+                "Tailwaind Css"
+                
             ]
         },
         
@@ -61,6 +60,29 @@
                 "Formik",
                 "React Multi Carousel",
                 "Email Js"
+            ]
+        },
+
+        {
+            "image" : "images/projects/skin.png",
+            "title": "Skin Disease Classification",
+            "bodyText": "- A Web App that allows users to check if they are suffering from **skin disease** (skin cancer) or not.\n - User has to just click the photo of the skin and upload it on our platform, our model will **predict** which skin disease he/she is sufferening from.\n - Our Model will give user **three predections** with score out of 100%.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gurpreetsingh8792/skin-disease-classification"
+                }
+            ],
+            "tags" : [
+                "Flask",
+                "Python",
+                "Jupyter Notebook",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Pytorch",
+                "Pandas",
+                "MobileNet CNN"
             ]
         },
        

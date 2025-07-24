@@ -1,41 +1,53 @@
 {
-    "experiences": [
-        {
-            "title": "Fullstack Developer",
-            "subtitle": "Nitage Design Labs Pvt. Ltd.",
-            "workType": "Full-time",
-            "workDescription": [
-                "Devloped and Maintaining the Current website of NitageDL.",
-                "Developed and maintained the LawFaxAI website, a specialized platform for legal professionals, enhancing case management and document generation using AI.",
-                "Engineered the entire backend architecture, including database schemas and server-side logic, hosted on AWS to ensure scalability and security.",
-                "Collaborated closely with a frontend developer to integrate ReactJS, ensuring a seamless user experience and responsive design.",
-                "Tools, Frameworks, Database & Libraries used: HTML, CSS, Javascript, Reactjs, Nodejs, Express, Sqlite, Mysql, PHP, Material UI, Formik, Emailjs, Razorpay, jwt Token, Io socket, Pupeeter, AWS, Docker, Postman, Git, Hostinger, wordpress, Bluehost etc."
-            ],
-            "dateText": "08/2023 – Present"
-        },
-        {
-            "title": "Data Science Intern",
-            "subtitle": "Data Science Wizards Pvt. Ltd.",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed Hindi OCR Detection tool for an image & developed our own dataset of hindi alphabets",
-                "Designed a Web based application using Python Flask framework.",
-                "Tools & Libraries used: Html, CSS, Flask, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, postman, Git , Docker & Jupyter Notebook. "
-
-
-            ],
-            "dateText": "01/2022 – 04/2022"
-        },
-        {
-            "title": "Data Science Intern",
-            "subtitle": "Alpha Tech Academy",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed the predictive model which predicts customer subscription of HDFC Bank .",
-                "Training on Machine Learning Algorithms.",
-                "Tools & Libraries used: Pandas, NumPy, Scikit-learn, TensorFlow, Keras & Jupyter Notebook. "
-            ],
-            "dateText": "06/2021 – 07/2021"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Fullstack Developer",
+      "subtitle": "Aerialborne Bharat Pvt. Ltd.",
+      "workType": "Part-time",
+      "workDescription": [
+        "Developing and maintaining a clinical trial management platform for drug analysis under modules such as EDC, IWRS, eCRF, and audit logging.",
+        "Engineered the backend using a microservices architecture, optimizing data flow and improving scalability, maintainability, and modular development.",
+        "Enhanced the frontend for high-performance, responsive UI using modern React.js practices and reusable components.",
+        "Implemented secure authentication, role-based access control, audit logging, and real-time activity tracking across modules.",
+        "Designed and developed the official website for Aerialborne Bharat Pvt. Ltd., showcasing drone-based solutions and services with a modern, responsive UI.",
+        "Tools, Frameworks, Database & Libraries used: React.js, Node.js, Express, PostgreSQL, Microservices, Docker, AWS (EC2, S3), Git, Postman, Zod, Formik, JWT, Vite, GitHub Actions, Prisma, ExcelJS, PDFKit, etc."
+      ],
+      "dateText": "01/2025 – Present"
+    },
+    {
+      "title": "Fullstack Developer",
+      "subtitle": "Nitage Design Labs Pvt. Ltd.",
+      "workType": "Full-time",
+      "workDescription": [
+        "Devloped and Maintaining the Current website of NitageDL.",
+        "Developed and maintained the LawFaxAI website, a specialized platform for legal professionals, enhancing case management and document generation using AI.",
+        "Engineered the entire backend architecture, including database schemas and server-side logic, hosted on AWS to ensure scalability and security.",
+        "Collaborated closely with a frontend developer to integrate ReactJS, ensuring a seamless user experience and responsive design.",
+        "Tools, Frameworks, Database & Libraries used: HTML, CSS, Javascript, Reactjs, Nodejs, Express, Sqlite, Mysql, PHP, Material UI, Formik, Emailjs, Razorpay, jwt Token, Io socket, Pupeeter, AWS, Docker, Postman, Git, Hostinger, wordpress, Bluehost etc."
+      ],
+      "dateText": "08/2023 – Present"
+    },
+    {
+      "title": "Data Science Intern",
+      "subtitle": "Data Science Wizards Pvt. Ltd.",
+      "workType": "Internship",
+      "workDescription": [
+        "Developed Hindi OCR Detection tool for an image & developed our own dataset of hindi alphabets",
+        "Designed a Web based application using Python Flask framework.",
+        "Tools & Libraries used: Html, CSS, Flask, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, postman, Git , Docker & Jupyter Notebook. "
+      ],
+      "dateText": "01/2022 – 04/2022"
+    },
+    {
+      "title": "Data Science Intern",
+      "subtitle": "Alpha Tech Academy",
+      "workType": "Internship",
+      "workDescription": [
+        "Developed the predictive model which predicts customer subscription of HDFC Bank .",
+        "Training on Machine Learning Algorithms.",
+        "Tools & Libraries used: Pandas, NumPy, Scikit-learn, TensorFlow, Keras & Jupyter Notebook. "
+      ],
+      "dateText": "06/2021 – 07/2021"
+    }
+  ]
 }
